@@ -32,3 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notsoul8&" alt="notsoul8" /></p>
 
+![Alt](https://repobeats.axiom.co/api/embed/9e87d15340d61d25b32d698d65f759a9f30dda37.svg "Repobeats analytics image")
