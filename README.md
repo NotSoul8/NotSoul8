@@ -32,4 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notsoul8&" alt="notsoul8" /></p>
 
-![Alt](https://repobeats.axiom.co/api/embed/9e87d15340d61d25b32d698d65f759a9f30dda37.svg "Repobeats analytics image")
+<!-- ![RealRONiN's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotSoul8N&show_icons=true&theme=jolly&title_color=10002b&hide_border=true&border_radius=30&bg_color=45,e42283,22075d&icon_color=10002b&hide_title=true&count_private=true) -->
