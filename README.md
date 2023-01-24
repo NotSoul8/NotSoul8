@@ -1,3 +1,4 @@
+<img alt="github contribution snake animation" src="https://github.com/RealRONiN/RealRONiN/blob/output/github-contribution-grid-snake.svg">
 <h1 align="center">Hi 👋, I'm Harshit Aka NotSoul8</h1>
 <h3 align="center">A developer from India</h3>
 
