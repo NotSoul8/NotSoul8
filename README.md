@@ -32,4 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notsoul8&" alt="notsoul8" /></p>
 
-<!-- ![RealRONiN's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotSoul8N&show_icons=true&theme=jolly&title_color=10002b&hide_border=true&border_radius=30&bg_color=45,e42283,22075d&icon_color=10002b&hide_title=true&count_private=true) -->
+[![](https://raw.githubusercontent.com/DakshNamdev/DakshNamdev/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/DakshNamdev/DakshNamdev/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
